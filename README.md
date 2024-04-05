@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jakub 👋</h1>
 
-<!--
-**jakubdeniziak/jakubdeniziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Working towards an Informatics degree at Gdańsk Tech
+ 
+- 🔭 Developing Librarian - 	a library management system
 
-Here are some ideas to get you started:
+- 🌱 Expanding my knowledge in **AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Projects</h3>
+
+- 🌟 [Librarian](https://github.com/jakubdeniziak/librarian) 🌟
+- [Qualified Electronic Signature Emulator](https://github.com/jakubdeniziak/qualified-electronic-signature-emulator)
+- Trading bot
